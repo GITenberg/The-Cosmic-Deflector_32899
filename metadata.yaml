@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33343
     wikipedia: http://en.wikipedia.org/wiki/Stanton_A._Coblentz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32899#The-Cosmic-Deflector
 gutenberg_issued: '2010-06-19'
 gutenberg_type: Text
 identifiers:
