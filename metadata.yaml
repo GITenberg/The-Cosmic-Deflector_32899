@@ -1,0 +1,29 @@
+_repo: The-Cosmic-Deflector_32899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32899-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coblentz, Stanton A. (Stanton Arthur)
+    alias: Coblentz, Stanton Arthur
+    birthdate: 1896
+    deathdate: 1982
+    gutenberg_agent_id: '33343'
+    url: http://www.gutenberg.org/2009/agents/33343
+    wikipedia: http://en.wikipedia.org/wiki/Stanton_A._Coblentz
+description: ''
+gutenberg_issued: '2010-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Cosmic Deflector
+url: http://www.gutenberg.org/ebooks/32899
